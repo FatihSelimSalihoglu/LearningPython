@@ -16,4 +16,5 @@ myplot2.title ('life is good')
 myplot2.zlabel ('life is maybe not so good')
 myplot2.clabel ('maybe good')
 myplot2.plot(z, c)
-myplot2.show()
+
+myplot2.show() '''exploring how can i make changes on my .py files on GitHub to make my projects synchronized'''
